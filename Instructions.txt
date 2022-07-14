@@ -1,0 +1,15 @@
+INSTRUCTIONS
+
+You get a space craft to shoot enemy crafts
+Enemy crafts are generated continuously
+Two enemy crafts are generated at once
+You can move your space craft to left by pressing A
+You can move your space craft to right by pressing D
+Press space bar to shoot
+You have three lives at the beginning
+You loose a life when an enemy craft hits your space craft
+Game ends when all three lives are over
+Press esc to end game whenever necessary
+
+
+Press any key to go back to the main menu
